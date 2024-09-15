@@ -1,3 +1,4 @@
+#Der folgende Code stammt von https:, hier wurde der 4. Layer (NormLayer) hinzugefügt.
 """
 Much of this code is adapted from Andrej Karpathy's NanoGPT
 (https://github.com/karpathy/nanoGPT)
