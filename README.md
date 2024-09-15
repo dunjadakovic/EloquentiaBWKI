@@ -4,9 +4,9 @@ Diese Repository enthält jegliche Codes hinsichtlich meiner drei KI-Module: ASR
 Alle (ausführbaren) Codes sind darauf ausgelegt, auf Google Colab ausgeführt zu werden. Falls dies nicht der Fall ist, müssen alle Requirements, die aufgelistet sind, 
 manuell installiert werden und ggf. die root paths von "/content/" zu dem erwünschten Root Path geändert werden. 
 ## ASR (Automatic Speech Recognition)
-Der ASR-Teil der Repository beinhaltet die Aufbereitung der Trainingsdaten auf das erwünschte Format (manifest_asr_aufbau.py),
-den Code für das Finetuning auf Basis von Citrinet-256 (asrtraining.py),
-die ausführbare Demo (asrdemo.py)
+Der ASR-Teil der Repository beinhaltet die Aufbereitung der Trainingsdaten auf das erwünschte Format (manifest_asr_aufbau.py), \n
+den Code für das Finetuning auf Basis von Citrinet-256 (asrtraining.py), \n
+die ausführbare Demo (asrdemo.py) \n
 und Dateien, die aus dem genutzten Datensatz stammen und in der Demo als Testdateien genutzt werden (testfiles). 
 Um das ASR-Modell auszuführen, muss die Demo gestartet werden (vorzugsweise in Google Colab). 
 ## RAG (Retrieval Augmented Generation)
