@@ -7,6 +7,7 @@ Diese Repository enthält jegliche Codes hinsichtlich meiner drei KI-Module:
 <li> RAG (Retrieval Augmented Generation)</li>
 </ol>
 Alle (ausführbaren) Codes sind darauf ausgelegt, auf Google Colab ausgeführt zu werden. Falls dies nicht der Fall ist, müssen alle Requirements, die aufgelistet sind, manuell installiert werden und ggf. die root paths von "/content/" zu dem erwünschten Root Path geändert werden. 
+
 ## ASR (Automatic Speech Recognition)
 Der ASR-Teil der Repository beinhaltet: 
 <ol>
@@ -16,6 +17,7 @@ Der ASR-Teil der Repository beinhaltet:
 <li>Dateien, die aus dem genutzten Datensatz stammen und in der Demo als Testdateien genutzt werden (testfiles). </li>
 </ol>
 Um das ASR-Modell auszuführen, muss die Demo gestartet werden (vorzugsweise in Google Colab). <br/>
+
 ## RAG (Retrieval Augmented Generation)
 <ol>
 <li>Der RAG-Teil der Repository beinhaltet den Code für Kategorisierung der Wörter, der als Erstellung des Datensatzes fungiert (wordcategorisation.py) </li>
@@ -24,6 +26,7 @@ Um das ASR-Modell auszuführen, muss die Demo gestartet werden (vorzugsweise in 
 Um Wörter wie im Datensatz kategorisieren zu können, führen Sie bitte wordcategorisation.py aus und geben Sie ihre Wortliste als String ein. <br/>
 Um die RAG-Applikation zu testen, führen Sie bitte ragmitlangchain.py aus und geben Sie das gewünschte Level und die gewünschte Kategorie ein. <br/>
 (voller Datensatz bei: https://raw.githubusercontent.com/dunjadakovic/RAGAPI/main/ContentAndCategories.csv). <br/>
+
 ## TTS (Text-To-Speech)
 Das TTS-Modell ist eine modifizierte Version von Bark von SunoAI (https://github.com/suno-ai/bark). <br/>
 Jegliche modifizierten Files sind hier aufzufinden, wobei in jeder File gekennzeichnet ist, was verändert wurde.<br/>
