@@ -1,3 +1,6 @@
+#der originelle code stammt von https..., hier wurden sample rate sowohl die aktivierungsfunktion
+#von softmax zu relu geändert
+
 import contextlib
 import gc
 import os
