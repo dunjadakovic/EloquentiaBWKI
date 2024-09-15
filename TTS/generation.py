@@ -1,4 +1,4 @@
-#der originelle code stammt von https..., hier wurden sample rate sowohl die aktivierungsfunktion
+#der originelle code stammt von https://github.com/suno-ai/bark, hier wurden sample rate sowohl die aktivierungsfunktion
 #von softmax zu relu geändert
 
 import contextlib
