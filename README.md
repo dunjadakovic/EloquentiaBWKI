@@ -27,8 +27,14 @@ Um Wörter wie im Datensatz kategorisieren zu können, führen Sie bitte wordcat
 Um die RAG-Applikation zu testen, führen Sie bitte ragmitlangchain.py aus und geben Sie das gewünschte Level und die gewünschte Kategorie ein. <br/>
 (voller Datensatz bei: https://raw.githubusercontent.com/dunjadakovic/RAGAPI/main/ContentAndCategories.csv). <br/>
 
+
 ## TTS (Text-To-Speech)
 Das TTS-Modell ist eine modifizierte Version von Bark von SunoAI (https://github.com/suno-ai/bark). <br/>
 Jegliche modifizierten Files sind hier aufzufinden, wobei in jeder File gekennzeichnet ist, was verändert wurde.<br/>
 Um das TTS-Modell auszuführen, führen Sie bitte ttstest.py aus und geben Sie ihre prompt und den speaker (history_prompt) falls gewünscht ein. <br/>
 Um das originelle Modell im Vergleich auszuprobieren, befolgen Sie bitte die Anweisungen in https://github.com/suno-ai/bark. <br/>
+
+## Weitere Informationen und Nutzungsmöglichkeiten 
+Um eine vorläufige Demoversion der Applikation mit funktionierendem GUI auszuprobieren, besuchen Sie gerne die Website URL. <br/>
+Hier können Sie beide Tests und eine Aufgabendemo ausprobieren.<br/> 
+In der Aufgabendemo dauert die Generierung der Aufgaben jedoch anfänglich sehr lange, da ein Cold Start der API durchgeführt werden muss. 
