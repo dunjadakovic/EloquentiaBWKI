@@ -35,6 +35,7 @@ Um das TTS-Modell auszuführen, führen Sie bitte ttstest.py aus und geben Sie i
 Um das originelle Modell im Vergleich auszuprobieren, befolgen Sie bitte die Anweisungen in https://github.com/suno-ai/bark. <br/>
 
 ## Weitere Informationen und Nutzungsmöglichkeiten 
-Um eine vorläufige Demoversion der Applikation mit funktionierendem GUI auszuprobieren, besuchen Sie gerne die Website URL. <br/>
+Um eine vorläufige Demoversion der Applikation mit funktionierendem GUI auszuprobieren, besuchen Sie gerne die Website https://eloquentia.flutterflow.app. <br/>
 Hier können Sie beide Tests und eine Aufgabendemo ausprobieren.<br/> 
-In der Aufgabendemo dauert die Generierung der Aufgaben jedoch anfänglich sehr lange, da ein Cold Start der API durchgeführt werden muss. 
+In der Aufgabendemo dauert die Generierung der Aufgaben jedoch anfänglich sehr lange, da ein Cold Start der API durchgeführt werden muss. <br/>
+Es kann des Weiteren sein, dass aufgrund dessen, wie die API konfiguriert ist, sie zeitweise aussetzt. 
