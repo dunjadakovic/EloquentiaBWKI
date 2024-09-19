@@ -38,4 +38,5 @@ Um das originelle Modell im Vergleich auszuprobieren, befolgen Sie bitte die Anw
 Um eine vorläufige Demoversion der Applikation mit funktionierendem GUI auszuprobieren, besuchen Sie gerne die Website https://eloquentia.flutterflow.app. <br/>
 Hier können Sie beide Tests und eine Aufgabendemo ausprobieren.<br/> 
 In der Aufgabendemo dauert die Generierung der Aufgaben jedoch anfänglich sehr lange, da ein Cold Start der API durchgeführt werden muss. <br/>
-Es kann des Weiteren sein, dass aufgrund dessen, wie die API konfiguriert ist, sie zeitweise aussetzt. 
+Es kann des Weiteren sein, dass aufgrund dessen, wie die API konfiguriert ist, sie zeitweise aussetzt. <br/>
+Sollte etwas wiederholt nicht funktionieren, kontaktieren Sie mich gerne. 
